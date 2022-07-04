@@ -1,0 +1,22 @@
+[
+    {
+        "id" : 1,
+        "event" : "Finish this todo app",
+        "completed" : false
+    },
+    {
+        "id" : 2,
+        "event" : "start app",
+        "completed" : true
+    },
+    {
+        "id" : 3,
+        "event" : "plan new app",
+        "completed" : false
+    },
+    {
+        "id" : 4,
+        "event" : "Eat Breakfast",
+        "completed" : true
+    }
+]
